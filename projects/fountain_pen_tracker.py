@@ -20,4 +20,4 @@ fountain_pen_collection.append(pen_1)
 #    pen = input("Please enter your fountain pen name")
 #    fountain_pen_collection.append(pen)
 for pen in fountain_pen_collection:
-    print(f"{pen}")
+    print(f"I have one {pen}.")

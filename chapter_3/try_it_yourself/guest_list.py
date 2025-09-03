@@ -42,3 +42,4 @@ print(f"\n{dinner_guest[1].title()} you are still invited.")
 del dinner_guest[0]
 dinner_guest.remove('jesus')
 print(dinner_guest)
+print(len(dinner_guest))
